@@ -28,11 +28,11 @@ You can try Ktaby Chatbot through this [Link](https://bot.dialogflow.com/8b25ae0
 
 1. [Default Welcome Intent](#13)
 
-   [Training Phrases](#14)
+   - [Training Phrases](#14)
 
-   [Responses](#15)
+   - [Responses](#15)
 
-   [Test Cases](#16)
+   - [Test Cases](#16)
 
 2. [Search-for-books](#17)
 
@@ -44,15 +44,15 @@ You can try Ktaby Chatbot through this [Link](https://bot.dialogflow.com/8b25ae0
 
 6. [Intents for a specific genre](#21)
 
-   [Industry](#29)
+   - [Industry](#29)
 
-   [Education](#22)
+   - [Education](#22)
 
-   [Philosophy](#23)
+   - [Philosophy](#23)
 
-   [Science](#24)
+   - [Science](#24)
 
-   [Test cases for genres](#25)
+   - [Test cases for genres](#25)
 
 7. [Goodbye Intent](#26)
 
